@@ -1,6 +1,7 @@
 /target
 /artifacts
 /release
+/node_modules
 **/*.rs.bk
 *.iml
 *.sw[opn]
