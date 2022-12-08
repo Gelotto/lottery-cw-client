@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Gelotto Lottery Client",
   "main": "index.ts",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
   "author": "Daniel Gabriele <dg0offset@gmail.com>",
   "license": "MIT",
   "scripts": {

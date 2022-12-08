@@ -2,6 +2,7 @@
 /artifacts
 /release
 /node_modules
+/dist
 **/*.rs.bk
 *.iml
 *.sw[opn]
