@@ -1,5 +1,5 @@
 {
-  "name": "@gelotto/lottery",
+  "name": "cw-lottery-client",
   "version": "1.0.0",
   "description": "Gelotto Lottery Client",
   "main": "index.ts",
