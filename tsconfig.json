@@ -3,7 +3,12 @@
         "esModuleInterop": true,
         "target": "es5",
         "declaration": true,
-        "outDir": "./dist"
+        "outDir": "./dist",
+        "sourceMap": true,
+        "declarationMap": true,
+        "allowSyntheticDefaultImports": true,
+        "moduleResolution": "node",
+        "strict": false
     },
     "include": [
         "src/**/*"
